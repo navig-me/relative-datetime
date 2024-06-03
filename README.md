@@ -148,7 +148,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Example 2: Custom Format**: Shows how to parse a datetime string in a custom format.
 - **Example: Datetime with a Specific Timezone**: Demonstrates handling of datetime objects with specific timezones.
 
-These examples should provide a clear understanding of how to use the `relative-datetime` library. You can expand or modify them based on the specific use cases of your library.
-
-
-```
