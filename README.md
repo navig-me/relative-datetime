@@ -2,6 +2,8 @@
 
 `relative-datetime` is a Python library for working with relative datetime strings and parsing datetime strings. It provides utility functions to easily convert datetime objects to human-readable relative times and to parse various datetime string formats into `datetime` objects.
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mihirk)
+
 ## Features
 
 - Convert `datetime` objects to human-readable relative time strings, such as:
