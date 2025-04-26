@@ -1,5 +1,10 @@
 # relative-datetime
 
+[![GitHub Stars](https://img.shields.io/github/stars/navig-me/relative-datetime?style=social)](https://github.com/navig-me/relative-datetime/stargazers)
+[![PyPI version](https://img.shields.io/pypi/v/relative-datetime)](https://pypi.org/project/relative-datetime/)
+[![Downloads](https://static.pepy.tech/personalized-badge/relative-datetime?period=month&units=international_system&left_color=grey&right_color=blue&left_text=downloads)](https://pepy.tech/project/relative-datetime)
+[![License](https://img.shields.io/github/license/navig-me/relative-datetime)](https://github.com/navig-me/relative-datetime/blob/main/LICENSE)
+
 `relative-datetime` is a Python library for working with relative datetime strings and parsing datetime strings. It provides utility functions to easily convert datetime objects to human-readable relative times and to parse various datetime string formats into `datetime` objects.
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mihirk)
